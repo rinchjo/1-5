@@ -453,14 +453,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 1.5rem;
 }
 
-.mx-3{
-  margin-left: 0.75rem;
-  margin-right: 0.75rem;
-}
-
 .my-4{
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+.mx-3{
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
 }
 
 .mt-96{
@@ -485,10 +485,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mt-3{
   margin-top: 0.75rem;
-}
-
-.mt-10{
-  margin-top: 2.5rem;
 }
 
 .flex{
@@ -590,10 +586,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-no-repeat{
   background-repeat: no-repeat;
-}
-
-.pb-20{
-  padding-bottom: 5rem;
 }
 
 .text-center{
